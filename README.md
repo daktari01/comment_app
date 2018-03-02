@@ -32,12 +32,16 @@ a command line program using python 3 that implements a comment functionality
 # Cmmands
 1. ### Register User
 **Command:** register_user <first_name> <last_name> <email> <password>
+  
 2. ### Login User
 **Command:** login_user <user_email> <password>
+  
 3. ### Create Comment
 **Command:** create_comment <message>
+  
 4. ### Edit Comment
 **Command:** edit_comment <comment_id> <message>
+  
 5. ### Delete Comment
 **Command:** delete_comment <comment_id>
 
